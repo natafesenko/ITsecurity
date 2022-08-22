@@ -1,5 +1,7 @@
 ## ITsecurity
 
+>!About courses and resourses
+
 **Security triad (also called the AIC or CIA)** The security triad mandates protection against the loss of confidentiality, the loss of integrity, and the loss of availability of IT systems and data. Other principles include defense-in-depth and the principle of least privilege
 
 Step you take to reduce weaknesses reduces your risks:
@@ -38,3 +40,5 @@ PracticeLabs - Configure Real Devices in a Virtual Environment
 - [] Extra Resources
 - [] How To Create and Use Virtual Machines URL
 - [] Splunk Fundamentals - 1 hour 22 mins
+
+
