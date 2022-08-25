@@ -182,5 +182,124 @@ Principle Of Least Privilege
   - Processes and procedures:
   - - Establish a framework for acount managment which defines creation, attributes, assignment and maintenance of all accounts
 
+  - Social engineering:
+  - - A malicious practice, or attack, through which deception in used to again to gain access to network, system or data
+  - - Attecers will attempt to gain personal/sensitive information from trusting individuals to furter their exploits
+  - - The attack can occur by various means:
+  - - - Through email
+  - - - Over the phone
+  - - - In person
+  - Avoiding Social Engineering
+  - Techiques to help avoid social engineering attacks:
+  - - Be distrustful:
+  - - - Any communication through which requests are made for sensitive internal information should be met whit suspicion
+  - - - Report such occurrences to the appropriate personnel
+  - Exercise caution:
+  - - Sensitive infirmation should not be provided to anione that does not have a right to that information
+  - Techniques to help aviod social engineering attacks continued:
+  - - Confirm identifty
+  - - - Ensure to validate the identity of all unknown requestors of sensitive internal information - request:
+  - - - - Name(s)
+  - - - - Phone number(s)
+  - - - - Photo ID(s)
+  - - Avoid email
+  - - - Personal, sensitive, internak information shoulddn't be conveyed via email requests 
+  - - - Be wary of embedded links email messages
+
+  Attack Surface Analysis
+  - Attack surface
+  - - Entry point an attacker uses to breach a system
+  - - Network or application foe malicious intent(преступное намерение)
+  - Three areas are examined in order to determine the attack surface of an environment
+  - - Application
+  - - Network
+  - - Employee
+  Considerations when assessing the application attack surface:
+  - - How much code an application has
+  - - How many data inputs there are in the application
+  - - How many and what type of service and running
+  - - Listening ports the application uses
+  Network attack Surface
+  - Consideration when assessing the nwtwork attack surface:
+  - - Network design
+  - - Location of critical systems
+  - - Lokation and configuration of firewalls
+  - - Configurations and aspects security related devises - IDS, VPN
+  ![Diagrams](imgformyconspect/fig1-6.png) 
+  Employee Attack surface
+  - Considaration when assesing the employee attack surface:
+  - - What is the likelihood of your environment experting occurrences of
+  - - Social engineering
+  - - Malicious behavior
+  - - Human error
+
+  Download Attack Surface Analyzer
+  - Trustworthy Computing Group
+  - MSFT Internal Use
+  - Snapshot system state before and after installation
+  - Displays changes'to key elements of the windows attack surface
+  Threat Moddeling
+  1. Diagram
+  2. Identify
+  3. Mitigate
+  4. Validate
+  ![Diagrams](imgformyconspect/fig1-7.png)
+  Donwload the Threat Modeling Tool
+  - Create model
+  - Use templates
+  - Build the Model
+  - Analyze Threaths
+  - Create Report
+
+  ### Phisical Site security
+  Control over who accesses your physical environment, assets and data is important
+  - Security measures to consider are:
+  - - Badge rearers
+  - - Keyboard for access to sensitive areas
+  - - Office and desk keys
+  - - Guards to control access
+  - - Logbooks to record peoples entry 
+
+  ### Phisical Site security - Cost
+  Ensure to cinsider cost when determining your security plan:
+  - Evaluate the importance of the data/resourses you're protecting and commersurately acquire security resourses
+  Ensure youre security measures aren't averly cumbersome:
+  - Inplement proper training
+  - If security measures are too ardouous, users may br tamped to circumvent them
+  
+  ### Phisical Site security - Access control
+  Access control:
+  - In the contex of physical site security, involves the restriction of access to resourses to only those who require access
+  - Through use of fenses, guards, door locks, etc.
+![Diagrams](imgformyconspect/fig1-8.png)
+  Securing the physical premises:
+  - Incorporate defense in depth - layered site security:
+    - Multiple lyers of security to pritect and defend sensitive site assets
+    - If outher layers are breached, inner layers remaine to thwart attackers from accessing sensitive areas
+    - 
+  ### Phisical Site security - Physical Premises
+  The Physical Premises is often divided into three zones:
+  - External perimeter:
+    - Outermost portion of the physical premises
+    - Driveways, parking lost, etc.
+  - Internal perimeter:
+    - Buildings on the physical premises, or only those buildings you occuppy there be multiple tenants
+  - Secure areas:
+    - Sensitive locations within the building(s) such network rooms, data centersm wiring closets etc.
+  ### Phisical Site security - External Perimmeter
+  Your external perimeter is the first line of defense which, depending on your environmemtm can be comprised of:
+  - Security cameras:
+    - Concern - can be costly, so balance monitoring casts vs recording schedules
+  - Lighting
+  - Fencing
+  - Gates
+  - Guards
+  Your internal security consist of exterior doors. walls and any internal secure areas, such as:
+  - External/internal doorlocks
+  - Keypads
+  - Card readers 
+  - Concierges
+  - Smoke detectors
+  Implement
 
 </details>
