@@ -134,5 +134,53 @@ The steps of a risk management plan:
 - - Utilize a risk matrix to assist in risk ranking
 - - Outline risk ranking/risk score
 ![Diagrams](/imgformyconspect/fig1-2.png)
+- Respond to risks using typical methods:
+- - Avoidance
+- - Mitigation
+- - Accertance
+- - Transfer
+![Diagrams](imgformyconspect/fif1-3.png)
+- Risk avoidance:
+- - Risk is removed by choocing to not participate in an event or activity
+- Risk Mitigation:
+- - Risk is minimized throught interventions which lower likelihood and/or impact of the risk
+- Risk Accetace:
+- - Knowing the risk and accepting the likelihood and/or impact of the risk
+- Risk Transfer:
+- - Shifting risk responsibility to a third perty
+- Important to be of any residual risk:
+- - What remains subsequent to implementing measures to lessen likelihood or impact of a negative incidient
+  
+Residual Risl
+- Important be aware of any residual risk:
+-  - What remains subsequent to implementing to lessen likelihood or impact of a negative incident
+
+Principle Of Least Privilege
+  A securirty measure than can apply to user, sysytem, program or process that defines the least amount of "rigts", or access, required to effectively accomplish its function.
+  ![Diagrams](/imgformyconspect/fig1-5.png) 
+  - Has been around for a long time
+  - Organizations have driven organizations to focus on its implementation and ensure principle is folowed
+  - - Sarbanes-Oxley
+  - - HIPAA
+  - - HITECH
+  ![Diagrams](imgformyconspect/fig1-4.png) 
+  - Difficultes lie within the diversity corporate work enviropments:
+  - - Hundred thousands of users
+  - - Dispersed over numerous geographical locations
+  - - Require access to multiple application, file server and printers
+  - - Access requirements may very by location. user type and department security levels
+  - - Application and systam permitions also hve to bee taken into account
+  - - Regulatory requirment auditing to ensuresuccesful implementation akros the enterprise
+  - Use grouprs:
+  - - Ensure user and applications are effectively placed into groups streamline permissions assignment
+  - Use accounts as intended
+  - - Ensure administrators only use admin accounts for admin tasks
+  - Standardize accounts
+  - - Define a number of account types based on user roles and assign as appropriate
+  - Third-party applications:
+  - - There are third-party apps available to help streamline and assist in permissions managment
+  - Processes and procedures:
+  - - Establish a framework for acount managment which defines creation, attributes, assignment and maintenance of all accounts
+
 
 </details>
